@@ -1,0 +1,7 @@
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Debug APK (solo distribuimos el release)
+GPS_Bahia_debug.apk
