@@ -23,13 +23,6 @@ Sin publicidad · Sin cuentas · Sin permisos invasivos · 100% gratis.
 
 </div>
 
----
-
-## 📸 Capturas de pantalla
-
-> *(Agregá capturas del mapa con los colectivos andando, el modal de líneas, y los horarios)*
-
----
 
 ## ✨ ¿Qué hace esta app?
 
@@ -245,6 +238,6 @@ Si encontrás algún bug o tenés una sugerencia, **[abrí un Issue](https://git
 <div align="center">
 
 Hecho con ❤️ para Bahía Blanca  
-Los datos son propiedad de **gpsbahia.com.ar** / Municipalidad de Bahía Blanca
+Los datos son propiedad de **gpsbahia.com.ar** / No estamos afiliados (Ni querriamos nunca) con la nefasta gestion de Federico Susbielles (Gracias a dios)
 
 </div>
