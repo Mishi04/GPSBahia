@@ -17,7 +17,7 @@ Sin publicidad · Sin cuentas · Sin permisos invasivos · 100% gratis.
 
 <br/>
 
-[![Descargar APK](https://img.shields.io/badge/⬇️%20DESCARGAR%20APK-GPS__Bahia.apk-success?style=for-the-badge&logo=android)](https://github.com/TU_USUARIO/gps-bahia/releases/latest/download/GPS_Bahia.apk)
+[![Descargar APK](https://img.shields.io/badge/⬇️%20DESCARGAR%20APK-GPS__Bahia.apk-success?style=for-the-badge&logo=android)](https://github.com/Mishi04/GPSBahia/releases/latest/download/GPS_Bahia.apk)
 
 > 💡 **¿Primera vez instalando un APK?** → [Ver instrucciones abajo](#-cómo-instalar-el-apk)
 
@@ -65,7 +65,7 @@ Sin publicidad · Sin cuentas · Sin permisos invasivos · 100% gratis.
 
 ### Paso 1 — Descargá el APK
 
-👉 **[GPS_Bahia.apk — Descargar (2.6 MB)](https://github.com/TU_USUARIO/gps-bahia/releases/latest/download/GPS_Bahia.apk)**
+👉 **[GPS_Bahia.apk — Descargar (2.6 MB)](https://github.com/Mishi04/GPSBahia/releases/latest/download/GPS_Bahia.apk)**
 
 ---
 
@@ -238,7 +238,7 @@ La app **recuerda las últimas líneas seleccionadas** automáticamente. La pró
 
 ## 🐛 Problemas o sugerencias
 
-Si encontrás algún bug o tenés una sugerencia, **[abrí un Issue](https://github.com/TU_USUARIO/gps-bahia/issues/new)** en este repositorio.
+Si encontrás algún bug o tenés una sugerencia, **[abrí un Issue](https://github.com/Mishi04/GPSBahia/issues/new)** en este repositorio.
 
 ---
 
